@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentResult>
+   <student>
+      <rollno>101</rollno>
+      <name>Student1</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student>
+   <student>
+      <rollno>102</rollno>
+      <name>Student2</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student><student>
+      <rollno>103</rollno>
+      <name>Student3</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student><student>
+      <rollno>104</rollno>
+      <name>Student4</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student><student>
+      <rollno>105</rollno>
+      <name>Student5</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student><student>
+      <rollno>106</rollno>
+      <name>Student6</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student><student>
+      <rollno>107</rollno>
+      <name>Student7</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student><student>
+      <rollno>108</rollno>
+      <name>Student8</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student><student>
+      <rollno>109</rollno>
+      <name>Student9</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student><student>
+      <rollno>110</rollno>
+      <name>Student10</name>
+      <subject>
+         <sub1>
+            Applied Mathematics I
+            <marks>94</marks>
+         </sub1>
+         <sub2>
+            Applied Physics I
+            <marks>98</marks>
+         </sub2>
+         <sub3>
+            Manufacturing Process
+            <marks>100</marks>
+         </sub3>
+         <sub4>
+            Electrical Technology
+            <marks>98</marks>
+         </sub4>
+         <sub5>
+            Applied Chemistry
+            <marks>100</marks>
+         </sub5>
+      </subject>
+      <total>490</total>
+      <percentage>97%</percentage>
+      <result>PASS</result>
+   </student>
+</StudentResult>
